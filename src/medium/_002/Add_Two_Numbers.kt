@@ -69,7 +69,7 @@ fun main() {
     val l2 = ListNode(5)
     l2.next = ListNode(6)
     l2.next!!.next = ListNode(4)
-    // 测试用例1：l1=[0,1]，l2=[0,1,2]，输出结果应为[0,2,2]
+// 测试用例1：l1=[0,1]，l2=[0,1,2]，输出结果应为[0,2,2]
 //        ListNode l1 = new ListNode(0);
 //        l1.next = new ListNode(1);
 //        ListNode l2 = new ListNode(0);

@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99b5d719-d5d5-473e-b060-d9b6a8ec903e" name="Default Changelist" comment="" />
+    <list default="true" id="99b5d719-d5d5-473e-b060-d9b6a8ec903e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/medium/_002/Add_Two_Numbers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/_002/Add_Two_Numbers.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/medium/_003/Longest_Substring_Without_Repeating_Characters.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/_003/Longest_Substring_Without_Repeating_Characters.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +19,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WD4QFQBGxynXiL3fFJlXX2r8ZD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -124,30 +134,42 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1356" height="117" key="GridCell.Tab.0.bottom" timestamp="1578712914446">
-      <screen x="1440" y="362" width="1920" height="1014" />
+    <state x="1814" y="-526" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578715009137">
+      <screen x="1440" y="-718" width="1920" height="1057" />
     </state>
-    <state width="1356" height="302" key="GridCell.Tab.0.bottom/0.23.1440.834/1440.362.1920.1057/1440.-718.1920.1057@1440.362.1920.1057" timestamp="1578709599654" />
-    <state width="1356" height="117" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.362.1920.1014/1440.-718.1920.1057@1440.362.1920.1014" timestamp="1578712914446" />
-    <state width="1356" height="117" key="GridCell.Tab.0.center" timestamp="1578712914445">
-      <screen x="1440" y="362" width="1920" height="1014" />
+    <state x="1814" y="-526" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/1440.362.1920.1014/1440.-718.1920.1057@1440.-718.1920.1057" timestamp="1578715009137" />
+    <state x="2177" y="-302" key="Github.ShareDialog" timestamp="1578715436099">
+      <screen x="1440" y="-718" width="1920" height="1057" />
     </state>
-    <state width="1356" height="302" key="GridCell.Tab.0.center/0.23.1440.834/1440.362.1920.1057/1440.-718.1920.1057@1440.362.1920.1057" timestamp="1578709599653" />
-    <state width="1356" height="117" key="GridCell.Tab.0.center/0.23.1440.877/1440.362.1920.1014/1440.-718.1920.1057@1440.362.1920.1014" timestamp="1578712914445" />
-    <state width="1356" height="117" key="GridCell.Tab.0.left" timestamp="1578712914444">
-      <screen x="1440" y="362" width="1920" height="1014" />
-    </state>
-    <state width="1356" height="302" key="GridCell.Tab.0.left/0.23.1440.834/1440.362.1920.1057/1440.-718.1920.1057@1440.362.1920.1057" timestamp="1578709599653" />
-    <state width="1356" height="117" key="GridCell.Tab.0.left/0.23.1440.877/1440.362.1920.1014/1440.-718.1920.1057@1440.362.1920.1014" timestamp="1578712914444" />
-    <state width="1356" height="117" key="GridCell.Tab.0.right" timestamp="1578712914445">
-      <screen x="1440" y="362" width="1920" height="1014" />
-    </state>
-    <state width="1356" height="302" key="GridCell.Tab.0.right/0.23.1440.834/1440.362.1920.1057/1440.-718.1920.1057@1440.362.1920.1057" timestamp="1578709599654" />
-    <state width="1356" height="117" key="GridCell.Tab.0.right/0.23.1440.877/1440.362.1920.1014/1440.-718.1920.1057@1440.362.1920.1014" timestamp="1578712914445" />
-    <state x="1981" y="387" width="838" height="1032" key="search.everywhere.popup" timestamp="1578684967880">
+    <state x="2177" y="-302" key="Github.ShareDialog/0.23.1440.877/1440.362.1920.1014/1440.-718.1920.1057@1440.-718.1920.1057" timestamp="1578715436099" />
+    <state width="1356" height="278" key="GridCell.Tab.0.bottom" timestamp="1578773442043">
       <screen x="1440" y="362" width="1920" height="1057" />
     </state>
-    <state x="1981" y="387" width="838" height="1032" key="search.everywhere.popup/0.23.1440.834/1440.362.1920.1057/1440.-718.1920.1057@1440.362.1920.1057" timestamp="1578684967880" />
+    <state width="1356" height="351" key="GridCell.Tab.0.bottom/0.23.1440.834/1440.362.1920.1057/1440.-718.1920.1057@1440.362.1920.1057" timestamp="1578772016541" />
+    <state width="1356" height="278" key="GridCell.Tab.0.bottom/0.23.1440.835/1440.362.1920.1057/1440.-718.1920.1057@1440.362.1920.1057" timestamp="1578773442043" />
+    <state width="1356" height="117" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.362.1920.1014/1440.-718.1920.1057@1440.362.1920.1014" timestamp="1578714849938" />
+    <state width="1356" height="278" key="GridCell.Tab.0.center" timestamp="1578773442042">
+      <screen x="1440" y="362" width="1920" height="1057" />
+    </state>
+    <state width="1356" height="351" key="GridCell.Tab.0.center/0.23.1440.834/1440.362.1920.1057/1440.-718.1920.1057@1440.362.1920.1057" timestamp="1578772016540" />
+    <state width="1356" height="278" key="GridCell.Tab.0.center/0.23.1440.835/1440.362.1920.1057/1440.-718.1920.1057@1440.362.1920.1057" timestamp="1578773442042" />
+    <state width="1356" height="117" key="GridCell.Tab.0.center/0.23.1440.877/1440.362.1920.1014/1440.-718.1920.1057@1440.362.1920.1014" timestamp="1578714849937" />
+    <state width="1356" height="278" key="GridCell.Tab.0.left" timestamp="1578773442041">
+      <screen x="1440" y="362" width="1920" height="1057" />
+    </state>
+    <state width="1356" height="351" key="GridCell.Tab.0.left/0.23.1440.834/1440.362.1920.1057/1440.-718.1920.1057@1440.362.1920.1057" timestamp="1578772016539" />
+    <state width="1356" height="278" key="GridCell.Tab.0.left/0.23.1440.835/1440.362.1920.1057/1440.-718.1920.1057@1440.362.1920.1057" timestamp="1578773442041" />
+    <state width="1356" height="117" key="GridCell.Tab.0.left/0.23.1440.877/1440.362.1920.1014/1440.-718.1920.1057@1440.362.1920.1014" timestamp="1578714849933" />
+    <state width="1356" height="278" key="GridCell.Tab.0.right" timestamp="1578773442042">
+      <screen x="1440" y="362" width="1920" height="1057" />
+    </state>
+    <state width="1356" height="351" key="GridCell.Tab.0.right/0.23.1440.834/1440.362.1920.1057/1440.-718.1920.1057@1440.362.1920.1057" timestamp="1578772016541" />
+    <state width="1356" height="278" key="GridCell.Tab.0.right/0.23.1440.835/1440.362.1920.1057/1440.-718.1920.1057@1440.362.1920.1057" timestamp="1578773442042" />
+    <state width="1356" height="117" key="GridCell.Tab.0.right/0.23.1440.877/1440.362.1920.1014/1440.-718.1920.1057@1440.362.1920.1014" timestamp="1578714849938" />
+    <state x="1981" y="387" width="838" height="1032" key="search.everywhere.popup" timestamp="1578771190668">
+      <screen x="1440" y="362" width="1920" height="1057" />
+    </state>
+    <state x="1981" y="387" width="838" height="1032" key="search.everywhere.popup/0.23.1440.834/1440.362.1920.1057/1440.-718.1920.1057@1440.362.1920.1057" timestamp="1578771190668" />
   </component>
   <component name="masterDetails">
     <states>
