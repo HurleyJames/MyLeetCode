@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="99b5d719-d5d5-473e-b060-d9b6a8ec903e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/META-INF/MyLeetCode.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyLeetCode/META-INF/MyLeetCode.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/medium/_003/Longest_Substring_Without_Repeating_CharactersKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyLeetCode/medium/_003/Longest_Substring_Without_Repeating_CharactersKt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
