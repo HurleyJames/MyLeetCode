@@ -15,7 +15,7 @@ public class Subtree_of_Another_Tree {
         } else {
             return false;
         }
-        
+
 //        return traverse(s, t);
     }
 
