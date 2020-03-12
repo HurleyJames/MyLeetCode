@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99b5d719-d5d5-473e-b060-d9b6a8ec903e" name="Default Changelist" comment="" />
+    <list default="true" id="99b5d719-d5d5-473e-b060-d9b6a8ec903e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/Merge_Two_Sorted_Lists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/Merge_Two_Sorted_Lists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/_617/Merge_Two_Binary_Trees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/_021/_617/Merge_Two_Binary_Trees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/黄鹏远——简历.pdf" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +53,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunManager" selected="Application.Test">
@@ -187,6 +193,10 @@
     <state width="1356" height="278" key="GridCell.Tab.0.right/0.23.1440.835/1440.362.1920.1057/1440.-718.1920.1057@1440.362.1920.1057" timestamp="1578773442042" />
     <state width="1356" height="117" key="GridCell.Tab.0.right/0.23.1440.877/1440.362.1920.1014/1440.-718.1920.1057@1440.362.1920.1014" timestamp="1578714849938" />
     <state width="1176" height="277" key="GridCell.Tab.0.right/0.23.1680.984@0.23.1680.984" timestamp="1579747596286" />
+    <state x="338" y="91" key="SettingsEditor" timestamp="1584051811196">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="338" y="91" key="SettingsEditor/-1440.608.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1584051811196" />
     <state x="129" y="68" key="new project wizard" timestamp="1582318314624">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
