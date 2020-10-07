@@ -1,5 +1,7 @@
 package basic;
 
+import javax.print.attribute.standard.NumberUp;
+
 public class LinkedListRing {
     /**
      * 判断单链表是否有环
@@ -7,71 +9,74 @@ public class LinkedListRing {
      * 如果后面一直走到fast指针为空，则无环；
      * 如果走到fast指针与slow指针相等，则有环；
      *
-     * @param lNode
+     * @param head
      * @return
      */
-    public static boolean hasRing(LNode lNode) {
-        if (lNode == null) {
+    public static boolean hasRing(LNode head) {
+        if (head == null) {
             return false;
         }
-        if (lNode.next == null) {
+        if (head.next == null) {
             return false;
         }
-        LNode p = lNode.next;
-        LNode q = lNode.next.next;
-        while (q != null) {
-            if (p == q) {
-                return true;
+        LNode p = head;
+        LNode q = head;
+
+        if (q.next != null) {
+            q = q.next.next;
+        } else {
+            return false;
+        }
+        p = p.next;
+        while (q != p) {
+            if (q != null && q.next != null) {
+                q = q.next.next;
+            } else {
+                return false;
             }
             p = p.next;
-            q = q.next.next;
         }
-        return false;
+        // 如果相遇，说明有环
+        return true;
     }
 
     /**
      * 寻找入口节点
      *
-     * @param lNode
+     * @param head
      * @return
      */
-    public static LNode searchEntryNode(LNode lNode) {
-        // 当单链表为空时，单链表没有环
-        if (lNode == null) {
+    public static LNode searchEntryNode(LNode head) {
+        if (head == null) {
             return null;
         }
-        // 当当链表只有头节点，且next为空时，说明只有一个节点，也没有环
-        if (lNode.next == null) {
+        if (head.next == null) {
             return null;
         }
-        // 慢指针
-        LNode p = lNode.next;
-        // 快指针
-        LNode q = lNode.next.next;
-        while (q != null) {
-            if (q == p) {
-                // 如果q与p相等了，说明单链表有环
-                break;
+        LNode p = head;
+        LNode q = head;
+
+        if (q.next != null) {
+            q = q.next.next;
+        } else {
+            return null;
+        }
+        p = p.next;
+        while (q != p) {
+            if (q != null && q.next != null) {
+                q = q.next.next;
+            } else {
+                return null;
             }
             p = p.next;
-            q = q.next.next;
-        }
-        // 如果q为空了，则说明单链表没有环
-        if (q == null) {
-            return null;
         }
 
-        q = lNode;
-        while (q != null) {
-            if (p == q) {
-                // 入口节点
-                return p;
-            }
-            // 设置它们以相同的步伐1向后推，第一次相遇的时候就是入口节点
+        // 如果相遇，说明有环，寻找入口节点
+        while (head != p) {
             p = p.next;
-            q = q.next;
+            head = head.next;
         }
-        return null;
+        return p;
     }
 
     /**
@@ -107,4 +112,9 @@ class LNode {
      */
     int data;
     LNode next;
+
+    public LNode(int data) {
+        this.data = data;
+        this.next = null;
+    }
 }
