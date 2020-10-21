@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * 求两个有序数组的公共元素
+ */
 public class Intersection {
 
     public static void main(String[] args) {

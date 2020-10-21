@@ -1,5 +1,8 @@
 package basic.LoopQueue;
 
+/**
+ * 手写一个循环队列
+ */
 public class LoopQueue implements IQueue{
 
     /**

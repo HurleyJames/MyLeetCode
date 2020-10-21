@@ -1,5 +1,8 @@
 package basic.ReverseLinkedList;
 
+/**
+ * 遍历法反转链表
+ */
 public class Traverse {
 
     public static void main(String[] args) {

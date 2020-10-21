@@ -1,5 +1,8 @@
 package basic.ReverseLinkedList;
 
+/**
+ * 递归法反转链表
+ */
 public class Recursion {
 
     public static void main(String[] args) {

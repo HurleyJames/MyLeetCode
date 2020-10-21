@@ -1,7 +1,8 @@
 package basic;
 
-import javax.print.attribute.standard.NumberUp;
-
+/**
+ * 链表是否有环
+ */
 public class LinkedListRing {
     /**
      * 判断单链表是否有环

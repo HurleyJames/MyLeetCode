@@ -1,7 +1,12 @@
 package basic;
 
+/**
+ * [1,2,3]转化为[3,2,1]
+ * 寻找能买到的数量最大的商品，要求商品比前一件便宜也比后一件便宜
+ */
 public class Reorder {
 
+    // TODO
 
     public static void swap(int m, int n) {
         int temp;

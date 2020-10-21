@@ -5,6 +5,9 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 
+/**
+ * 求两个日期之间的工作日
+ */
 public class WorkdayBetween {
     public static void main(String[] args) throws ParseException {
         System.out.println(new WorkdayBetween().workdays_between(2020,9,25,2020,9,28));

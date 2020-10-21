@@ -8,7 +8,7 @@ import java.util.List;
  * 输出： 5
  * 结果："((()))", "(())()", "(()())", "()(())", "()()()"
  */
-public class GenerateParentheses {
+public class GenerateParenthesis {
     static List<String> lists = new ArrayList<>();
 
     public static void main(String[] args) {
