@@ -3,32 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="99b5d719-d5d5-473e-b060-d9b6a8ec903e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/basic/ASCIISort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyLeetCode/basic/ASCIISort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/basic/GCDAndLCM.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyLeetCode/basic/GCDAndLCM.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/basic/GenerateParentheses.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/basic/Intersection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyLeetCode/basic/Intersection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/basic/LNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyLeetCode/basic/LNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/basic/LinkedListRing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyLeetCode/basic/LinkedListRing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/basic/LoopQueue/LoopQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyLeetCode/basic/LoopQueue/LoopQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/basic/Reorder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyLeetCode/basic/Reorder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/basic/ReverseLinkedList/Recursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyLeetCode/basic/ReverseLinkedList/Recursion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/basic/ReverseLinkedList/Traverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyLeetCode/basic/ReverseLinkedList/Traverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/basic/ReverseStr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyLeetCode/basic/ReverseStr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/basic/WorkdayBetween.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyLeetCode/basic/WorkdayBetween.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/simple/_021/_617/Merge_Two_Binary_Trees$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/simple/_021/_617/Merge_Two_Binary_Trees.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/ASCIISort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/ASCIISort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/GCDAndLCM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/GCDAndLCM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/GenerateParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/GenerateParenthesis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Intersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Intersection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/LinkedListRing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/LinkedListRing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/LoopQueue/LoopQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/LoopQueue/LoopQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Reorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Reorder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/ReverseLinkedList/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/ReverseLinkedList/Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/ReverseLinkedList/Traverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/ReverseLinkedList/Traverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/ReverseStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/ReverseStr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/WorkdayBetween.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/WorkdayBetween.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simple/_021/_617/Merge_Two_Binary_Trees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/_617/Merge_Two_Binary_Trees.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +54,32 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.GradeSort3">
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="basic" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FindMedian">
+    <configuration name="DeleteDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.DeleteDuplicate" />
+      <module name="MyLeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindMedian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hard.FindMedian" />
+      <module name="MyLeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GradeSort3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.GradeSort.GradeSort3" />
       <module name="MyLeetCode" />
@@ -99,33 +98,7 @@
       <module name="MyLeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumToChinese" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.NumToChinese" />
-      <module name="MyLeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrimeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.PrimeSum" />
-      <module name="MyLeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basic.*" />
+          <option name="PATTERN" value="hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,7 +111,7 @@
       <module name="MyLeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.*" />
+          <option name="PATTERN" value="hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindMedian" />
+        <item itemvalue="Application.DeleteDuplicate" />
         <item itemvalue="Application.GradeSort3" />
         <item itemvalue="Application.LossNum" />
         <item itemvalue="Application.RepeatedSubstring" />
-        <item itemvalue="Application.NumToChinese" />
-        <item itemvalue="Application.PrimeSum" />
       </list>
     </recent_temporary>
   </component>
@@ -179,34 +152,38 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="489" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1603291023873" />
-    <state width="1388" height="195" key="GridCell.Tab.0.bottom" timestamp="1603291586956">
+    <state x="438" y="46" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1603533911079">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="438" y="46" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1603533911079" />
+    <state width="1388" height="292" key="GridCell.Tab.0.bottom" timestamp="1603529720952">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1388" height="219" key="GridCell.Tab.0.bottom/-1112.0.1112.834/0.0.1440.900@0.0.1440.900" timestamp="1602063922561" />
     <state width="1388" height="234" key="GridCell.Tab.0.bottom/-1112.23.1112.811/0.0.1440.900@0.0.1440.900" timestamp="1601971412507" />
     <state width="1388" height="234" key="GridCell.Tab.0.bottom/-1112.23.1112.811/0.23.1440.834@0.23.1440.834" timestamp="1601984876622" />
-    <state width="1388" height="195" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603291586956" />
-    <state width="1388" height="195" key="GridCell.Tab.0.center" timestamp="1603291586955">
+    <state width="1388" height="292" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603529720952" />
+    <state width="1388" height="292" key="GridCell.Tab.0.center" timestamp="1603529720951">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1388" height="219" key="GridCell.Tab.0.center/-1112.0.1112.834/0.0.1440.900@0.0.1440.900" timestamp="1602063922559" />
     <state width="1388" height="234" key="GridCell.Tab.0.center/-1112.23.1112.811/0.0.1440.900@0.0.1440.900" timestamp="1601971412506" />
     <state width="1388" height="234" key="GridCell.Tab.0.center/-1112.23.1112.811/0.23.1440.834@0.23.1440.834" timestamp="1601984876621" />
-    <state width="1388" height="195" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603291586955" />
-    <state width="1388" height="195" key="GridCell.Tab.0.left" timestamp="1603291586954">
+    <state width="1388" height="292" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603529720951" />
+    <state width="1388" height="292" key="GridCell.Tab.0.left" timestamp="1603529720950">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1388" height="219" key="GridCell.Tab.0.left/-1112.0.1112.834/0.0.1440.900@0.0.1440.900" timestamp="1602063922558" />
     <state width="1388" height="234" key="GridCell.Tab.0.left/-1112.23.1112.811/0.0.1440.900@0.0.1440.900" timestamp="1601971412505" />
     <state width="1388" height="234" key="GridCell.Tab.0.left/-1112.23.1112.811/0.23.1440.834@0.23.1440.834" timestamp="1601984876620" />
-    <state width="1388" height="195" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603291586954" />
-    <state width="1388" height="195" key="GridCell.Tab.0.right" timestamp="1603291586955">
+    <state width="1388" height="292" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603529720950" />
+    <state width="1388" height="292" key="GridCell.Tab.0.right" timestamp="1603529720951">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1388" height="219" key="GridCell.Tab.0.right/-1112.0.1112.834/0.0.1440.900@0.0.1440.900" timestamp="1602063922560" />
     <state width="1388" height="234" key="GridCell.Tab.0.right/-1112.23.1112.811/0.0.1440.900@0.0.1440.900" timestamp="1601971412506" />
     <state width="1388" height="234" key="GridCell.Tab.0.right/-1112.23.1112.811/0.23.1440.834@0.23.1440.834" timestamp="1601984876622" />
-    <state width="1388" height="195" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603291586955" />
+    <state width="1388" height="292" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603529720951" />
     <state width="1388" height="289" key="GridCell.Tab.1.bottom" timestamp="1602059624274">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
