@@ -1,9 +1,10 @@
-package basic;
+package medium._148;
 
 /**
  * 单链表排序
+ * 改进：要求O(nlogn)的时间复杂度和常数级的空间复杂度
  */
-public class SortLinkedList {
+public class Sort_List {
 
     public static void main(String[] args) {
         // 测试数据

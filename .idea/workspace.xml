@@ -3,27 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="99b5d719-d5d5-473e-b060-d9b6a8ec903e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/FindMedian.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/basic/DeleteDuplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyLeetCode/basic/DeleteDuplicate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/basic/Intersection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyLeetCode/basic/Intersection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/basic/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyLeetCode/basic/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/basic/RemoveDuplicate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/basic/ReverseLinkedList/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/basic/ReverseLinkedList/Recursion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/basic/ReverseLinkedList/Traverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/basic/SortLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyLeetCode/basic/SortLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/DeleteDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/DeleteDuplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/Intersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Intersection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/LinkedListRing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/_141/LinkedListRing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/RemoveDuplicate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/ReverseLinkedList/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/_206/ReverseLinkedList/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/ReverseLinkedList/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/_206/ReverseLinkedList/Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/ReverseLinkedList/Traverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/_206/ReverseLinkedList/Traverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/SortLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/SortLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simple/Merge_Two_Sorted_Lists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/_021/Merge_Two_Sorted_Lists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simple/_160/Intersection_of_Two_Linked_Lists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/_160/Intersection_of_Two_Linked_Lists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/GenerateParenthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/_022/Generate_Parentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/Lineup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Lineup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/LossNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/_268/Missing_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/SortLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/_148/SortLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -247,12 +230,12 @@
       <screen x="0" y="23" width="1680" height="984" />
     </state>
     <state x="841" y="233" key="run.anything.popup/0.23.1680.984@0.23.1680.984" timestamp="1603899295705" />
-    <state x="351" y="0" width="978" height="1050" key="search.everywhere.popup" timestamp="1604544536176">
+    <state x="351" y="0" width="978" height="1050" key="search.everywhere.popup" timestamp="1604567416005">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="301" y="0" width="838" height="1032" key="search.everywhere.popup/-1112.0.1112.834/0.0.1440.900@0.0.1440.900" timestamp="1601969620272" />
     <state x="301" y="0" width="838" height="1032" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1603290641941" />
-    <state x="351" y="0" width="978" height="1050" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1604544536176" />
+    <state x="351" y="0" width="978" height="1050" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1604567416005" />
     <state x="351" y="23" width="978" height="1129" key="search.everywhere.popup/0.23.1680.984@0.23.1680.984" timestamp="1603899469820" />
   </component>
 </project>

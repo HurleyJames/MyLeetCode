@@ -1,5 +1,8 @@
 package basic;
 
+/**
+ * 男女排队问题
+ */
 public class Lineup {
 
     /**
