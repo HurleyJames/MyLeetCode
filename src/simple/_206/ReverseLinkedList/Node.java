@@ -1,4 +1,4 @@
-package basic.ReverseLinkedList;
+package simple._206.ReverseLinkedList;
 
 public class Node {
 

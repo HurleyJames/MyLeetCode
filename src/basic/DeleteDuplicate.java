@@ -7,13 +7,15 @@ import java.util.*;
  */
 public class DeleteDuplicate {
     public static void main(String[] args) {
-        int[] test = new int[]{1, 2, 3, 3, 4, 5, 6, 6, 7};
-        int[] arr = new int[]{};
-        System.out.println(delete(test));
+        int[] test = new int[]{1, 7, 3, 4, 3, 5, 7, 6, 7};
+        System.out.println(deleteReturnSize(test));
+        Object[] arr = deleteReturnArray(test);
+        for (Object value : arr) {
+            System.out.print(value + ", ");
+        }
     }
 
-    public static int delete(int[] arr) {
-        int len = arr.length;
+    public static int deleteReturnSize(int[] arr) {
         Set<Integer> sets = new HashSet<>();
         for (int value : arr) {
             sets.add(value);
@@ -21,4 +23,11 @@ public class DeleteDuplicate {
         return sets.size();
     }
 
+    public static Object[] deleteReturnArray(int[] arr) {
+        Set<Integer> sets = new HashSet<>();
+        for (int value : arr) {
+            sets.add(value);
+        }
+        return sets.toArray();
+    }
 }

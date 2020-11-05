@@ -3,6 +3,27 @@
   <component name="ChangeListManager">
     <list default="true" id="99b5d719-d5d5-473e-b060-d9b6a8ec903e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/FindMedian.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/basic/DeleteDuplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyLeetCode/basic/DeleteDuplicate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/basic/Intersection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyLeetCode/basic/Intersection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/basic/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyLeetCode/basic/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/basic/RemoveDuplicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/basic/ReverseLinkedList/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/basic/ReverseLinkedList/Recursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/basic/ReverseLinkedList/Traverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyLeetCode/basic/SortLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyLeetCode/basic/SortLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/DeleteDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/DeleteDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/Intersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Intersection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/LinkedListRing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/_141/LinkedListRing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/RemoveDuplicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/ReverseLinkedList/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/_206/ReverseLinkedList/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/ReverseLinkedList/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/_206/ReverseLinkedList/Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/ReverseLinkedList/Traverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/_206/ReverseLinkedList/Traverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/SortLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/SortLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/Merge_Two_Sorted_Lists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/_021/Merge_Two_Sorted_Lists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple/_160/Intersection_of_Two_Linked_Lists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/_160/Intersection_of_Two_Linked_Lists.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +80,7 @@
       <recent name="basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindMedian">
+  <component name="RunManager" selected="Application.UniqueAward">
     <configuration name="DeleteDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.DeleteDuplicate" />
       <module name="MyLeetCode" />
@@ -80,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GradeSort3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.GradeSort.GradeSort3" />
+    <configuration name="MonkeyEatPeach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.MonkeyEatPeach" />
       <module name="MyLeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.GradeSort.*" />
+          <option name="PATTERN" value="simple._136.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LossNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.LossNum" />
+    <configuration name="RemoveDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.RemoveDuplicate" />
       <module name="MyLeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hard.*" />
+          <option name="PATTERN" value="simple._136.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepeatedSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.RepeatedSubstring" />
+    <configuration name="UniqueAward" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simple._136.UniqueAward" />
       <module name="MyLeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hard.*" />
+          <option name="PATTERN" value="simple._136.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindMedian" />
+        <item itemvalue="Application.UniqueAward" />
+        <item itemvalue="Application.MonkeyEatPeach" />
         <item itemvalue="Application.DeleteDuplicate" />
-        <item itemvalue="Application.GradeSort3" />
-        <item itemvalue="Application.LossNum" />
-        <item itemvalue="Application.RepeatedSubstring" />
+        <item itemvalue="Application.RemoveDuplicate" />
+        <item itemvalue="Application.FindMedian" />
       </list>
     </recent_temporary>
   </component>
@@ -148,145 +169,90 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="489" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1603291023873">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="571" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1603899461883">
+      <screen x="0" y="23" width="1680" height="984" />
     </state>
     <state x="489" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1603291023873" />
+    <state x="571" y="128" key="#com.intellij.ide.util.MemberChooser/0.23.1680.984@0.23.1680.984" timestamp="1603899461883" />
+    <state x="438" y="320" width="564" height="263" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1603606852234">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="438" y="320" width="564" height="263" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1603606852234" />
     <state x="438" y="46" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1603533911079">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="438" y="46" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1603533911079" />
-    <state width="1388" height="292" key="GridCell.Tab.0.bottom" timestamp="1603529720952">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1628" height="223" key="GridCell.Tab.0.bottom" timestamp="1604544938167">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1388" height="219" key="GridCell.Tab.0.bottom/-1112.0.1112.834/0.0.1440.900@0.0.1440.900" timestamp="1602063922561" />
     <state width="1388" height="234" key="GridCell.Tab.0.bottom/-1112.23.1112.811/0.0.1440.900@0.0.1440.900" timestamp="1601971412507" />
     <state width="1388" height="234" key="GridCell.Tab.0.bottom/-1112.23.1112.811/0.23.1440.834@0.23.1440.834" timestamp="1601984876622" />
-    <state width="1388" height="292" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603529720952" />
-    <state width="1388" height="292" key="GridCell.Tab.0.center" timestamp="1603529720951">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1388" height="285" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603787122591" />
+    <state width="1628" height="223" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1604544938167" />
+    <state width="1628" height="223" key="GridCell.Tab.0.center" timestamp="1604544938166">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1388" height="219" key="GridCell.Tab.0.center/-1112.0.1112.834/0.0.1440.900@0.0.1440.900" timestamp="1602063922559" />
     <state width="1388" height="234" key="GridCell.Tab.0.center/-1112.23.1112.811/0.0.1440.900@0.0.1440.900" timestamp="1601971412506" />
     <state width="1388" height="234" key="GridCell.Tab.0.center/-1112.23.1112.811/0.23.1440.834@0.23.1440.834" timestamp="1601984876621" />
-    <state width="1388" height="292" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603529720951" />
-    <state width="1388" height="292" key="GridCell.Tab.0.left" timestamp="1603529720950">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1388" height="285" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603787122590" />
+    <state width="1628" height="223" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1604544938166" />
+    <state width="1628" height="223" key="GridCell.Tab.0.left" timestamp="1604544938165">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1388" height="219" key="GridCell.Tab.0.left/-1112.0.1112.834/0.0.1440.900@0.0.1440.900" timestamp="1602063922558" />
     <state width="1388" height="234" key="GridCell.Tab.0.left/-1112.23.1112.811/0.0.1440.900@0.0.1440.900" timestamp="1601971412505" />
     <state width="1388" height="234" key="GridCell.Tab.0.left/-1112.23.1112.811/0.23.1440.834@0.23.1440.834" timestamp="1601984876620" />
-    <state width="1388" height="292" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603529720950" />
-    <state width="1388" height="292" key="GridCell.Tab.0.right" timestamp="1603529720951">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1388" height="285" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603787122589" />
+    <state width="1628" height="223" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1604544938165" />
+    <state width="1628" height="223" key="GridCell.Tab.0.right" timestamp="1604544938166">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1388" height="219" key="GridCell.Tab.0.right/-1112.0.1112.834/0.0.1440.900@0.0.1440.900" timestamp="1602063922560" />
     <state width="1388" height="234" key="GridCell.Tab.0.right/-1112.23.1112.811/0.0.1440.900@0.0.1440.900" timestamp="1601971412506" />
     <state width="1388" height="234" key="GridCell.Tab.0.right/-1112.23.1112.811/0.23.1440.834@0.23.1440.834" timestamp="1601984876622" />
-    <state width="1388" height="292" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603529720951" />
-    <state width="1388" height="289" key="GridCell.Tab.1.bottom" timestamp="1602059624274">
+    <state width="1388" height="285" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603787122590" />
+    <state width="1628" height="223" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1604544938166" />
+    <state width="1388" height="289" key="GridCell.Tab.1.bottom" timestamp="1603606520578">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1388" height="289" key="GridCell.Tab.1.bottom/-1112.0.1112.834/0.0.1440.900@0.0.1440.900" timestamp="1602059624274" />
-    <state width="1388" height="289" key="GridCell.Tab.1.center" timestamp="1602059624273">
+    <state width="1388" height="289" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603606520578" />
+    <state width="1388" height="289" key="GridCell.Tab.1.center" timestamp="1603606520577">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1388" height="289" key="GridCell.Tab.1.center/-1112.0.1112.834/0.0.1440.900@0.0.1440.900" timestamp="1602059624273" />
-    <state width="1388" height="289" key="GridCell.Tab.1.left" timestamp="1602059624272">
+    <state width="1388" height="289" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1603606520577" />
+    <state width="1388" height="289" key="GridCell.Tab.1.left" timestamp="1603606520576">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1388" height="289" key="GridCell.Tab.1.left/-1112.0.1112.834/0.0.1440.900@0.0.1440.900" timestamp="1602059624272" />
-    <state width="1388" height="289" key="GridCell.Tab.1.right" timestamp="1602059624273">
+    <state width="1388" height="289" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1603606520576" />
+    <state width="1388" height="289" key="GridCell.Tab.1.right" timestamp="1603606520578">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1388" height="289" key="GridCell.Tab.1.right/-1112.0.1112.834/0.0.1440.900@0.0.1440.900" timestamp="1602059624273" />
-    <state x="98" y="1" key="SettingsEditor" timestamp="1602420770100">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1388" height="289" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1603606520578" />
+    <state x="114" y="1" key="SettingsEditor" timestamp="1604199192054">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="98" y="1" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1602420770100" />
+    <state x="114" y="1" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1604199192054" />
     <state x="299" y="9" width="842" height="882" key="find.popup" timestamp="1603285141386">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="299" y="9" width="842" height="882" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1603285141386" />
-    <state x="301" y="0" width="838" height="1032" key="search.everywhere.popup" timestamp="1603290641941">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="841" y="233" key="run.anything.popup" timestamp="1603899295705">
+      <screen x="0" y="23" width="1680" height="984" />
+    </state>
+    <state x="841" y="233" key="run.anything.popup/0.23.1680.984@0.23.1680.984" timestamp="1603899295705" />
+    <state x="351" y="0" width="978" height="1050" key="search.everywhere.popup" timestamp="1604544536176">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="301" y="0" width="838" height="1032" key="search.everywhere.popup/-1112.0.1112.834/0.0.1440.900@0.0.1440.900" timestamp="1601969620272" />
     <state x="301" y="0" width="838" height="1032" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1603290641941" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>11</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>MyLeetCode</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <state x="351" y="0" width="978" height="1050" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1604544536176" />
+    <state x="351" y="23" width="978" height="1129" key="search.everywhere.popup/0.23.1680.984@0.23.1680.984" timestamp="1603899469820" />
   </component>
 </project>

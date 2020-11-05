@@ -6,6 +6,7 @@ import java.util.List;
 
 /**
  * 求两个有序数组的公共元素
+ * 这题的关键是注意到有序数组的「有序」，这意味着可以通过两个数组比较元素大小的方式
  */
 public class Intersection {
 
@@ -60,9 +61,9 @@ public class Intersection {
      * @param lists
      * @return
      */
-    public static List<Integer> binaryIntersection(int a[], int b[], List<Integer> lists) {
-        int longArray[];
-        int shortArray[];
+    public static List<Integer> binaryIntersection(int[] a, int[] b, List<Integer> lists) {
+        int[] longArray;
+        int[] shortArray;
         if (a.length <= b.length) {
             shortArray = a;
             longArray = b;
@@ -80,5 +81,6 @@ public class Intersection {
         }
         return lists;
     }
+
 }
 

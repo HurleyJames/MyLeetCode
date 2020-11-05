@@ -6,6 +6,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
+ * 相交链表
  * Write a program to find the node at which the intersection of two singly linked lists begins.
  */
 public class Intersection_of_Two_Linked_Lists {

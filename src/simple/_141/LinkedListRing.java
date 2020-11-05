@@ -1,4 +1,4 @@
-package basic;
+package simple._141;
 
 /**
  * 链表是否有环

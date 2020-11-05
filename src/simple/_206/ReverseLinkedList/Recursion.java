@@ -1,4 +1,4 @@
-package basic.ReverseLinkedList;
+package simple._206.ReverseLinkedList;
 
 /**
  * 递归法反转链表
