@@ -1,8 +1,8 @@
 package basic;
 
+/**
+ * 判断是否是连通图
+ */
 public class IsConnectedGraph {
-
-    int count1 = 0;
-    int count2 = 0;
 
 }

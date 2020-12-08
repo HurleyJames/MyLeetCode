@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="99b5d719-d5d5-473e-b060-d9b6a8ec903e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/GenerateParenthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/_022/Generate_Parentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/IsConnectedGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/IsConnectedGraph.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/basic/Lineup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Lineup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/LossNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple/_268/Missing_Number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/SortLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/_148/SortLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
